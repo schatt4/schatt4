@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schatt4
+- 👋 Hi, I’m Srijani
 - 👀 I’m interested in web developement 
 - 🌱 I’m currently learning react,Mongodb
 - 📫 How to reach me
